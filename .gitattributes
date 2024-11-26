@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+"Project1 - linear regression/data.csv" -text
+"Project2 - decision trees/agaricus-lepiota.csv" -text
+"Project3 - statistic models/hw3.py" -text
+"Project4 - logistic regression/data.csv" -text
+"Project4 - logistic regression/hw4.py" -text
